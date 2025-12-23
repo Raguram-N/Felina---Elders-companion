@@ -1,7 +1,9 @@
 # 🤖 BillianceAI — Felina
 ## 🧓 Elder Assistance Platform (Voice-First AI Companion)
 
-> Accessibility-first • Dignity-preserving • Ethical by design
+> **✨ Accessibility-first 
+> • Dignity-preserving 
+> • Ethical by design**
 
 ---
 
@@ -17,7 +19,7 @@ Felina can integrate with third-party service providers (mobility, transport, en
 
 Felina focuses on one core mission:
 
-Help elders live independently with confidence and dignity.
+> **✨Help elders live independently with confidence and dignity.**
 
 ### **What Felina Stands For<br>**
 ✔ Elder independence<br>
@@ -26,7 +28,7 @@ Help elders live independently with confidence and dignity.
 ✔ Reduced dependency on family<br>
 
 Tagline:
-> **“Just Call. Felina Will Help.”**
+> **✨“Just Call. Felina Will Help.”**
 
 ---
 
@@ -48,7 +50,7 @@ Emotional impact:
 - Anxiety
 - Reduced mobility
 
-> **Digital adoption does not equal digital accessibility.**
+> **✨ Digital adoption does not equal digital accessibility.**
 
 ---
 
@@ -82,7 +84,7 @@ Supported Assistance Categories
 - Mobility providers (e.g., Rapido)
 - Travel platforms (e.g., RedBus)
 - Entertainment platforms (e.g., BookMyShow)
-- Elders never interact with apps — Felina does on behalf of them.
+> **✨ Elders never interact with apps — Felina does on behalf of them.**
 
 ---
 
@@ -95,7 +97,7 @@ Supported Assistance Categories
 5. Felina completes the task
 6. Elder receives confirmation
 
-> **No app • No learning curve • No stress**
+> **✨ No app • No learning curve • No stress**
 
 ---
 
@@ -125,7 +127,7 @@ With consent, Felina can:<br>
 ✔ Send confirmation messages<br>
 ✔ Trigger SOS escalation<br>
 
-> Elders remain independent. Families stay informed.
+> **✨Elders remain independent. Families stay informed.**
 
 ---
 
@@ -176,9 +178,9 @@ India’s Elder Demographic
 
 🤝 Collaboration Model
 
-> **Felina is designed to collaborate, not compete.**
+> **✨ Felina is designed to collaborate, not compete.**
 
-Possible integrations:
+**Possible integrations:**
 
 🚕 Mobility platforms (Rapido, others)
 🚌 Travel platforms (RedBus, others)
@@ -191,7 +193,7 @@ Possible integrations:
 - B2B partnerships (hospitals, care homes)
 - CSR-backed deployments
 - White-label elder-assistance solutions
-- 🛡️ Built-In Safeguards
+> **🛡️ Built-In Safeguards**
 - Voice confirmation loops
 - Slow speech recognition
 - Human fallback support
@@ -209,7 +211,7 @@ Possible integrations:
 - Scalable & modular
 - Legally clean design
 
-> **This is not technology adapted for elders. It is technology designed around elders.**
+> **✨ This is not technology adapted for elders. It is technology designed around elders.**
 
 ---
 
@@ -219,4 +221,4 @@ Felina helps elders do simple things independently—
 travel, attend events, and live freely—
 without waiting for help.
 
-> **One phone call. One trusted voice. One companion.**
+> **✨ One phone call. One trusted voice. One companion.**
