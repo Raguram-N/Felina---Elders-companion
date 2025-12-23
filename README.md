@@ -35,17 +35,17 @@ Tagline:
 ## 🧠 Problem Statement
 ### Challenges Faced by Elders
 
-Difficulty using:
+**Difficulty using:**
 - Smartphones
 - Apps & OTPs
 - Touch-heavy interfaces
 
-Dependence on:
+**Dependence on:**
 - Family members
 - Neighbors
 - Care staff
 
-Emotional impact:
+**Emotional impact:**
 - Loss of autonomy
 - Anxiety
 - Reduced mobility
@@ -103,21 +103,21 @@ Supported Assistance Categories
 
 ## 💬 Sample Conversation
 
-- Consent & Greeting
-> Hello Amma, I am Felina.
-> I can help you with travel, bookings, and reminders.
-> Shall I continue? Say YES to confirm.
+- **✨ Consent & Greeting**
+> Hello Amma, I am Felina.<br>
+> I can help you with travel, bookings, and reminders.<br>
+> Shall I continue? Say YES to confirm.<br>
 
-- Mobility Request
-> Elder: I want to go to temple.
+- **✨ Mobility Request<br>**
+>Elder: I want to go to temple.<br>
 > Felina:
-> Shall I book an auto from your home?
+> Shall I book an auto from your home?<br>
 
-- Booking Request
-> Elder: Book movie ticket for tomorrow evening.
+- **✨ Booking Request<br>**
+> Elder: Book movie ticket for tomorrow evening.<br>
 > Felina:
-> I found a show at 6 PM.
-> Shall I book it for you?
+> I found a show at 6 PM.<br>
+> Shall I book it for you?<br>
 
 - 👨‍👩‍👧 Family & Caregiver Support (Optional)
 
@@ -180,14 +180,16 @@ India’s Elder Demographic
 
 > **✨ Felina is designed to collaborate, not compete.**
 
-**Possible integrations:**
+---
 
-🚕 Mobility platforms (Rapido, others)
-🚌 Travel platforms (RedBus, others)
-🎟️ Entertainment platforms (BookMyShow, others)
-🏥 Hospitals & care centers
-🏘️ Assisted-living communities
-💰 Revenue Model (Ethical)
+## **Possible integrations:**<br>
+
+🚕 Mobility platforms (Rapido, others)<br>
+🚌 Travel platforms (RedBus, others)<br>
+🎟️ Entertainment platforms (BookMyShow, others)<br>
+🏥 Hospitals & care centers<br>
+🏘️ Assisted-living communities<br>
+💰 Revenue Model (Ethical)<br>
 
 - Subscription plans for elders/families
 - B2B partnerships (hospitals, care homes)
