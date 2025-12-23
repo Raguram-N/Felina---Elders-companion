@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 🚀 Overview
 
 Felina is a voice-first AI assistant designed to help elderly users (60+) access everyday services without smartphones, apps, or digital complexity.
@@ -14,7 +15,15 @@ Felina enables elders to interact naturally—through simple phone calls or voic
 Felina can integrate with third-party service providers (mobility, transport, entertainment, utilities) while maintaining strict consent, safety, and data-minimization principles.
 
 ---
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
 
+<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 🎯 Vision
 
 Felina focuses on one core mission:
@@ -30,8 +39,20 @@ Felina focuses on one core mission:
 Tagline:
 > **✨“Just Call. Felina Will Help.”**
 
----
+</td>
+</tr>
+</table>
 
+---
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 🧠 Problem Statement
 ### Challenges Faced by Elders
 
@@ -52,8 +73,21 @@ Tagline:
 
 > **✨ Digital adoption does not equal digital accessibility.**
 
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 💡 Solution — Felina Elder Assistance
 
 Felina acts as a trusted voice layer between elders and essential services.
@@ -86,8 +120,21 @@ Supported Assistance Categories
 - Entertainment platforms (e.g., BookMyShow)
 > **✨ Elders never interact with apps — Felina does on behalf of them.**
 
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 📞 Elder Experience Flow
 
 1. Elder calls Felina
@@ -129,6 +176,10 @@ With consent, Felina can:<br>
 
 > **✨Elders remain independent. Families stay informed.**
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## ⚖️ Legal & Ethical Principles
@@ -162,6 +213,15 @@ Stored only when required:
 
 ---
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 📊 Market Opportunity
 
 India’s Elder Demographic
@@ -180,8 +240,21 @@ India’s Elder Demographic
 
 > **✨ Felina is designed to collaborate, not compete.**
 
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## **Possible integrations:**<br>
 
 🚕 Mobility platforms (Rapido, others)<br>
@@ -191,6 +264,22 @@ India’s Elder Demographic
 🏘️ Assisted-living communities<br>
 💰 Revenue Model (Ethical)<br>
 
+</td>
+</tr>
+</table>
+
+---
+
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 - Subscription plans for elders/families
 - B2B partnerships (hospitals, care homes)
 - CSR-backed deployments
@@ -202,7 +291,20 @@ India’s Elder Demographic
 - SOS escalation
 - Family notification layer
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## ⭐ Why Felina Wins
 
@@ -214,6 +316,10 @@ India’s Elder Demographic
 - Legally clean design
 
 > **✨ This is not technology adapted for elders. It is technology designed around elders.**
+
+</td>
+</tr>
+</table>
 
 ---
 
