@@ -91,26 +91,24 @@ Tagline:
 ## 💡 Solution — Felina Elder Assistance
 
 Felina acts as a trusted voice layer between elders and essential services.
-
 Supported Assistance Categories
-
 ### 🚕 Mobility
 - Auto / cab booking
 - Bus & train inquiries
-
 ### 🎟️ Bookings
 - Movie tickets
 - Event tickets
-
 ### 🚌 Travel
 - Bus reservations
 - Journey reminders
-
 ### 🕰️ Daily Assistance
-
 - Reminders
 - Information lookup
 - Family notifications
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -119,10 +117,6 @@ Supported Assistance Categories
 - Travel platforms (e.g., RedBus)
 - Entertainment platforms (e.g., BookMyShow)
 > **✨ Elders never interact with apps — Felina does on behalf of them.**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -170,6 +164,17 @@ Supported Assistance Categories
 > I found a show at 6 PM.<br>
 > Shall I book it for you?<br>
 
+---
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="19.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ### 👨‍👩‍👧 Family & Caregiver Support (Optional)
 With consent, Felina can:<br>
 ✔ Notify family about travel<br>
@@ -178,6 +183,10 @@ With consent, Felina can:<br>
 ✔ Trigger SOS escalation<br>
 
 > **✨Elders remain independent. Families stay informed.**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -216,7 +225,7 @@ Stored only when required:
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="6.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -278,12 +287,18 @@ India’s Elder Demographic
 
 </td>
 <td width="60%" valign="top">
-  
+
+<img src="4.4.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+## How Felina collab
 - Subscription plans for elders/families
 - B2B partnerships (hospitals, care homes)
 - CSR-backed deployments
 - White-label elder-assistance solutions
-> **🛡️ Built-In Safeguards**
+
+## How Felina work
+
+- 🛡️ Built-In Safeguards
 - Voice confirmation loops
 - Slow speech recognition
 - Human fallback support
@@ -314,11 +329,12 @@ India’s Elder Demographic
 - Scalable & modular
 - Legally clean design
 
-> **✨ This is not technology adapted for elders. It is technology designed around elders.**
-
 </td>
 </tr>
 </table>
+
+> **✨ This is not technology adapted for elders. It is technology designed around elders.**
+
 
 ---
 
