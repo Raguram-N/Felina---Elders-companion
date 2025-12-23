@@ -48,7 +48,7 @@ Tagline:
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -83,7 +83,7 @@ Tagline:
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="2.2.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -128,9 +128,9 @@ Supported Assistance Categories
 
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
-<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="3.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -145,6 +145,10 @@ Supported Assistance Categories
 6. Elder receives confirmation
 
 > **✨ No app • No learning curve • No stress**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -166,8 +170,7 @@ Supported Assistance Categories
 > I found a show at 6 PM.<br>
 > Shall I book it for you?<br>
 
-- 👨‍👩‍👧 Family & Caregiver Support (Optional)
-
+### 👨‍👩‍👧 Family & Caregiver Support (Optional)
 With consent, Felina can:<br>
 ✔ Notify family about travel<br>
 ✔ Share ETAs<br>
@@ -175,10 +178,6 @@ With consent, Felina can:<br>
 ✔ Trigger SOS escalation<br>
 
 > **✨Elders remain independent. Families stay informed.**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -248,9 +247,9 @@ India’s Elder Demographic
 
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="4.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -275,7 +274,7 @@ India’s Elder Demographic
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="4.2.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -299,9 +298,9 @@ India’s Elder Demographic
 
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
-<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="5.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
