@@ -335,6 +335,32 @@ India’s Elder Demographic
 
 > **✨ This is not technology adapted for elders. It is technology designed around elders.**
 
+---
+
+## 🔮 Future scoop - Felina as an "In-Built Voice App"
+### Felina: One Voice Interface for All Services
+- Felina evolves into an in-built, voice-first application that becomes a single access point to multiple everyday services—mobility, entertainment, travel, and assistance—without requiring users to install or learn multiple apps.
+
+**Use Case Scenario**
+- User: 68-year-old retired teacher
+- Need: Visit hospital and later watch a movie
+
+**Without Felina:**
+- Waits for son’s help
+- Cancels plans if unavailable
+
+**With Felina:**
+- Calls Felina
+- Ride booked via Rapido
+- Movie tickets booked via BookMyShow
+- Family notified automatically
+
+**Result:**
+- Independent mobility
+- Restored dignity
+- Reduced caregiver dependency
+
+> **✨ One call. One voice. All services.**
 
 ---
 
