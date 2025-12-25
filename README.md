@@ -14,6 +14,13 @@ Felina is a voice-first AI assistant designed to help elderly users (60+) access
 Felina enables elders to interact naturally—through simple phone calls or voice conversations—to perform essential tasks such as mobility, bookings, reminders, and assistance.
 Felina can integrate with third-party service providers (mobility, transport, entertainment, utilities) while maintaining strict consent, safety, and data-minimization principles.
 
+### 🤝 One-line Summary
+Felina enables senior citizens (60+) to book Rapido rides, Movie tickets, Train tickets, Order food & Groceries **through simple voice calls** — 
+unlocking a large, currently unreachable customer segment without requiring app usage or UI changes.
+
+>**✨ Elders speak. Felina acts**<br>
+>**✨ No apps. No screens. Just a phone call — Felina handles the rest.** 
+
 ---
 <table>
 <tr>
