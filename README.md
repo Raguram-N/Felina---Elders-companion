@@ -97,8 +97,9 @@ Tagline:
   
 ## 💡 Solution — Felina Elder Assistance
 
-Felina acts as a trusted voice layer between elders and essential services.
-Supported Assistance Categories
+Felina acts as a voice between elders and essential app.<br>
+
+**✨ "Just a phone call, Everything else is automated"**
 ### 🚕 Mobility
 - Auto / cab booking
 - Bus & train inquiries
@@ -119,7 +120,7 @@ Supported Assistance Categories
 
 ---
 
-## Felina can integrate with platforms such as:
+## 🌐 Felina can integrate with platforms such as:
 - Mobility providers (e.g., Rapido)
 - Travel platforms (e.g., RedBus)
 - Entertainment platforms (e.g., BookMyShow)
