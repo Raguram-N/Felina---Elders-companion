@@ -53,7 +53,7 @@ Tagline:
 ---
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
@@ -88,7 +88,7 @@ Tagline:
 
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img src="2.2.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
